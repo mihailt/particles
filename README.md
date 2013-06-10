@@ -1,4 +1,4 @@
-particles
+CoffeeScript particles experement
 =========
 
-particles
+[View Demo](http://mihailt.github.io/particles/)
