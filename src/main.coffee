@@ -15,7 +15,7 @@ random = (min, max=0) ->
 
 config =
 	fov: 250
-	background: 'rgba(0,0,0,0.3)',
+	background: 'rgba(0,0,0,0.1)',
 	color: [80, 140, 255],
 	axis: 'z',
 	step: 1,
