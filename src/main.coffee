@@ -3,9 +3,8 @@ canvas = document.createElement 'canvas'
 ctx = canvas.getContext("2d")
 
 # setting canvas width/heigth
-width = canvas.width = document.width
-height = canvas.height = document.height
-
+width = canvas.width = window.innerWidth
+height = canvas.height = window.innerHeight
 # adding canvas to the document
 document.body.appendChild canvas
 
